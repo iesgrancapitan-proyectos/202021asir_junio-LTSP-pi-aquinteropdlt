@@ -1,5 +1,7 @@
 # Módulo Proyecto Integrado del IES Gran Capitán
 
+1. Introducción
+
 El proyecto consistirá en lograr que los clientes puedan correr sistemas operativos sin necesidad de disco duro a través de la red de tal forma que se puedan usar equipos de pocas prestaciones o bajo costo y así no desperdiciarlos.
 Se realizará mediante un conjunto de aplicaciones servidores llamadas LTSP que permite ejecutar Linux aunque el cliente tenga pocos recursos.
 
