@@ -13,7 +13,7 @@ Para el despliegue es necesario un servidor con dos tarjetas de red (también pu
 
 3. Información sobre cómo usarlo
 
-Es muy sencillo de usar, una vez configurado el servidor, el cliente solo debe modificar en la bios el arranque para que sea por red y elegir la imagen del SO que mas nos guste.
+Es muy sencillo de usar, una vez configurado el servidor el cliente solo debe modificar en la bios el arranque para que sea por red y elegir la imagen del SO que mas nos guste.
   
   <a href="https://github.com/iesgrancapitan-proyectos/202021asir_junio-LTSP-pi-aquinteropdlt/wiki/OperatoriaCliente">Manual usuario</a>
 
